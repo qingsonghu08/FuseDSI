@@ -34,15 +34,10 @@ data
 │   └── bounding_box_train
 │   └── bounding_box_test
 │   └── ..
-├── MSMT17
-│   └── train
-│   └── test
-│   └── ..
-└── VeRi
-    └── image_train
-    └── image_query
-    └── image_test
-    └── *.txt
+└── MSMT17
+    └── train
+    └── test
+    └── ..
 ```
 
 ## Pre-trained Models 
