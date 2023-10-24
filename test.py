@@ -104,7 +104,7 @@ if __name__ == '__main__':
     parser.add_argument('--dropout', type=float, default=0)
 
     parser.add_argument('--resume', type=str,
-                        default="/home/ps/D/data-1/hqs/2023_v2/code6_20/TransReID-SSL-main-v3/cluster-contrast-reid/log_fcm_msmt1/model_best.pth.tar",
+                        default="/home/a/data/hqs_2023_v3/code6/FuseDSI/log_sota_msmt/model_best.pth.tar",
                         metavar='PATH')
     # testing configs
     parser.add_argument('--rerank', action='store_true',
